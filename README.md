@@ -14,8 +14,10 @@ Study2GWY
 │  ├─ 类比推理.md
 │  └─ 逻辑判断.md
 ├─ 常识
-│  ├─ index.md
+│  ├─ 常识.md
+│  └─ 常识.pdf
 └─ 言语
-   ├─ index.md
+   ├─ 言语.md
+   └─ 言语.pdf
 
 ```
